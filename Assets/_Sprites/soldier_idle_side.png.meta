@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 04aa87730ff0b2e4daebd021577a9fcf
+timeCreated: 1440331675
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: soldier_idle_side_0
+    21300002: soldier_idle_side_1
+    21300004: soldier_idle_side_2
+    21300006: soldier_idle_side_3
+    21300008: soldier_idle_side_4
+    21300010: soldier_idle_side_5
+    21300012: soldier_idle_side_6
+    21300014: soldier_idle_side_7
+    21300016: soldier_idle_side_8
+    21300018: soldier_idle_side_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 187.5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: soldier_idle_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 432
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 433
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 433
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_3
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 0
+        width: 432
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_4
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 0
+        width: 432
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_5
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 0
+        width: 433
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_6
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 0
+        width: 433
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_7
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 0
+        width: 433
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_8
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 0
+        width: 432
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soldier_idle_side_9
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 0
+        width: 430
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

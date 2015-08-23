@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 88caa4afcbf43ac41be1a2840883246a
+timeCreated: 1440333138
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Soldier_Sheet3_0
+    21300002: Soldier_Sheet3_1
+    21300004: Soldier_Sheet3_2
+    21300006: Soldier_Sheet3_3
+    21300008: Soldier_Sheet3_4
+    21300010: Soldier_Sheet3_5
+    21300012: Soldier_Sheet3_6
+    21300014: Soldier_Sheet3_7
+    21300016: Soldier_Sheet3_8
+    21300018: Soldier_Sheet3_9
+    21300020: Soldier_Sheet3_10
+    21300022: Soldier_Sheet3_11
+    21300024: Soldier_Sheet3_12
+    21300026: Soldier_Sheet3_13
+    21300028: Soldier_Sheet3_14
+    21300030: Soldier_Sheet3_15
+    21300032: Soldier_Sheet3_16
+    21300034: Soldier_Sheet3_17
+    21300036: Soldier_Sheet3_18
+    21300038: Soldier_Sheet3_19
+    21300040: Soldier_Sheet3_20
+    21300042: Soldier_Sheet3_21
+    21300044: Soldier_Sheet3_22
+    21300046: Soldier_Sheet3_23
+    21300048: Soldier_Sheet3_24
+    21300050: Soldier_Sheet3_25
+    21300052: Soldier_Sheet3_26
+    21300054: Soldier_Sheet3_27
+    21300056: Soldier_Sheet3_28
+    21300058: Soldier_Sheet3_29
+    21300060: Soldier_Sheet3_30
+    21300062: Soldier_Sheet3_31
+    21300064: Soldier_Sheet3_32
+    21300066: Soldier_Sheet3_33
+    21300068: Soldier_Sheet3_34
+    21300070: Soldier_Sheet3_35
+    21300072: Soldier_Sheet3_36
+    21300074: Soldier_Sheet3_37
+    21300076: Soldier_Sheet3_38
+    21300078: Soldier_Sheet3_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 375
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Soldier_Sheet3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2627
+        width: 433
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2627
+        width: 433
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2627
+        width: 432
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_3
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2627
+        width: 434
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_4
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2627
+        width: 433
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_5
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2627
+        width: 432
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_6
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2627
+        width: 434
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_7
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 2627
+        width: 433
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_8
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2627
+        width: 432
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_9
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 2627
+        width: 434
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1789
+        width: 433
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1789
+        width: 431
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1789
+        width: 432
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_13
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1789
+        width: 434
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_14
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1789
+        width: 431
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_15
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1789
+        width: 432
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_16
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1789
+        width: 434
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_17
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1789
+        width: 431
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_18
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1789
+        width: 432
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_19
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 1789
+        width: 434
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 431
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 909
+        width: 433
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_22
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 913
+        width: 431
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_23
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 908
+        width: 432
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_24
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 926
+        width: 432
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_25
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 921
+        width: 432
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_26
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 915
+        width: 445
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_27
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 895
+        width: 431
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_28
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 913
+        width: 433
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_29
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 910
+        width: 431
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 431
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 16
+        width: 432
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_32
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 433
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_33
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 18
+        width: 445
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_34
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 23
+        width: 432
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_35
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 29
+        width: 432
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_36
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 12
+        width: 432
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_37
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 16
+        width: 433
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_38
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 12
+        width: 431
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Sheet3_39
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 16
+        width: 430
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
