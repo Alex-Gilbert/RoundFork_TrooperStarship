@@ -117,7 +117,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 470674}
   - 212: {fileID: 21238082}
-  - 114: {fileID: 11414552}
+  - 114: {fileID: 11407626}
   m_Layer: 0
   m_Name: capsule_glass
   m_TagString: Untagged
@@ -906,7 +906,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 449066}
   - 212: {fileID: 21217358}
-  - 114: {fileID: 11462470}
+  - 114: {fileID: 11443824}
   m_Layer: 0
   m_Name: capsule_tank
   m_TagString: Untagged
@@ -4919,7 +4919,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11414552
+--- !u!114 &11407626
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -4947,7 +4947,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sortingOrder: 0
   applySpriterZOrder: 0
---- !u!114 &11462470
+--- !u!114 &11443824
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}

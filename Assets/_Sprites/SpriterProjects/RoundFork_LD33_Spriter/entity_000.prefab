@@ -16,6 +16,23 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &100556
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 431070}
+  - 212: {fileID: 21239344}
+  - 114: {fileID: 11463726}
+  m_Layer: 0
+  m_Name: gun copy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &103994
 GameObject:
   m_ObjectHideFlags: 0
@@ -25,7 +42,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 417102}
   - 212: {fileID: 21223450}
-  - 114: {fileID: 11459236}
+  - 114: {fileID: 11404908}
   m_Layer: 0
   m_Name: back thigh
   m_TagString: Untagged
@@ -65,6 +82,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
+--- !u!1 &106230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 437198}
+  m_Layer: 0
+  m_Name: bone_005
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &106994
 GameObject:
   m_ObjectHideFlags: 0
@@ -74,9 +106,76 @@ GameObject:
   m_Component:
   - 4: {fileID: 488512}
   - 212: {fileID: 21250952}
-  - 114: {fileID: 11437348}
+  - 114: {fileID: 11417710}
   m_Layer: 0
   m_Name: leg_0 copy_000
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &109220
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 492438}
+  - 212: {fileID: 21276588}
+  m_Layer: 0
+  m_Name: armhold2 copy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &110468
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 427406}
+  - 212: {fileID: 21276272}
+  - 114: {fileID: 11491390}
+  m_Layer: 0
+  m_Name: shoulders copy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &110608
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 477628}
+  - 212: {fileID: 21276616}
+  - 114: {fileID: 11498140}
+  m_Layer: 0
+  m_Name: chest copy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &112442
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 458806}
+  - 212: {fileID: 21205554}
+  - 114: {fileID: 11477358}
+  m_Layer: 0
+  m_Name: back thigh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -91,7 +190,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 498332}
   - 212: {fileID: 21263848}
-  - 114: {fileID: 11497684}
+  - 114: {fileID: 11443306}
   m_Layer: 0
   m_Name: head_happy copy
   m_TagString: Untagged
@@ -141,7 +240,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 416568}
   - 212: {fileID: 21218018}
-  - 114: {fileID: 11482822}
+  - 114: {fileID: 11429926}
   m_Layer: 0
   m_Name: shoulders copy
   m_TagString: Untagged
@@ -165,6 +264,23 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
+--- !u!1 &125738
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 439946}
+  - 212: {fileID: 21293442}
+  - 114: {fileID: 11424500}
+  m_Layer: 0
+  m_Name: leg_0 copy_000
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &126342
 GameObject:
   m_ObjectHideFlags: 0
@@ -177,6 +293,22 @@ GameObject:
   - 114: {fileID: 11443742}
   m_Layer: 0
   m_Name: leg_0 copy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &126480
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 491176}
+  - 212: {fileID: 21228436}
+  m_Layer: 0
+  m_Name: arm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -197,6 +329,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &128558
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 413122}
+  - 212: {fileID: 21217126}
+  m_Layer: 0
+  m_Name: arm_000
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &132068
 GameObject:
   m_ObjectHideFlags: 0
@@ -206,7 +354,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 490710}
   - 212: {fileID: 21247998}
-  - 114: {fileID: 11421436}
+  - 114: {fileID: 11438640}
   m_Layer: 0
   m_Name: leg_+1 copy
   m_TagString: Untagged
@@ -214,6 +362,53 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
+--- !u!1 &132606
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 456172}
+  m_Layer: 0
+  m_Name: bone_011
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &134290
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 409564}
+  m_Layer: 0
+  m_Name: bone_013
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &143422
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 496430}
+  - 212: {fileID: 21241436}
+  - 114: {fileID: 11407470}
+  m_Layer: 0
+  m_Name: head_happy copy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &143460
 GameObject:
   m_ObjectHideFlags: 0
@@ -239,9 +434,24 @@ GameObject:
   m_Component:
   - 4: {fileID: 414566}
   - 212: {fileID: 21295360}
-  - 114: {fileID: 11417014}
+  - 114: {fileID: 11475858}
   m_Layer: 0
   m_Name: chest copy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &150130
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 465652}
+  m_Layer: 0
+  m_Name: bone_006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -256,7 +466,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 410424}
   - 212: {fileID: 21273598}
-  - 114: {fileID: 11413892}
+  - 114: {fileID: 11437154}
   m_Layer: 0
   m_Name: gun copy
   m_TagString: Untagged
@@ -309,6 +519,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &165186
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 411142}
+  m_Layer: 0
+  m_Name: bone_010
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &168870
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,6 +577,21 @@ GameObject:
   - 212: {fileID: 21293598}
   m_Layer: 0
   m_Name: arm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &175098
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 418278}
+  m_Layer: 0
+  m_Name: bone_012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -443,7 +683,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 422496}
   - 212: {fileID: 21281834}
-  - 114: {fileID: 11427430}
+  - 114: {fileID: 11482994}
   m_Layer: 0
   m_Name: leg_-1 copy
   m_TagString: Untagged
@@ -451,6 +691,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
+--- !u!1 &189372
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 437774}
+  m_Layer: 0
+  m_Name: bone_009
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &190992
 GameObject:
   m_ObjectHideFlags: 0
@@ -498,6 +753,7 @@ Transform:
   - {fileID: 424366}
   - {fileID: 469178}
   - {fileID: 452600}
+  - {fileID: 437198}
   m_Father: {fileID: 0}
   m_RootOrder: 0
 --- !u!4 &404654
@@ -526,6 +782,19 @@ Transform:
   - {fileID: 425448}
   m_Father: {fileID: 403196}
   m_RootOrder: 14
+--- !u!4 &409564
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134290}
+  m_LocalRotation: {x: 0, y: 0, z: .999828517, w: -.0185207725}
+  m_LocalPosition: {x: -.29941535, y: .657223344, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 458806}
+  m_Father: {fileID: 437198}
+  m_RootOrder: 4
 --- !u!4 &410424
 Transform:
   m_ObjectHideFlags: 1
@@ -538,6 +807,31 @@ Transform:
   m_Children: []
   m_Father: {fileID: 403196}
   m_RootOrder: 5
+--- !u!4 &411142
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 165186}
+  m_LocalRotation: {x: 0, y: 0, z: .607834399, w: -.794063807}
+  m_LocalPosition: {x: 1.43475878, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 431070}
+  m_Father: {fileID: 437774}
+  m_RootOrder: 0
+--- !u!4 &413122
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128558}
+  m_LocalRotation: {x: 0, y: 0, z: .0085671423, w: -.999963343}
+  m_LocalPosition: {x: -1.37636364, y: 1.60939074, z: -.00400000019}
+  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 456172}
+  m_RootOrder: 0
 --- !u!4 &414566
 Transform:
   m_ObjectHideFlags: 1
@@ -574,6 +868,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 403196}
   m_RootOrder: 11
+--- !u!4 &418278
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 175098}
+  m_LocalRotation: {x: 0, y: 0, z: .999976218, w: -.00689600781}
+  m_LocalPosition: {x: -.231902286, y: -.72907418, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 439946}
+  m_Father: {fileID: 437198}
+  m_RootOrder: 3
 --- !u!4 &420368
 Transform:
   m_ObjectHideFlags: 1
@@ -634,6 +941,75 @@ Transform:
   m_Children: []
   m_Father: {fileID: 456900}
   m_RootOrder: 0
+--- !u!4 &427406
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110468}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.5090909, y: 2.18846178, z: -.00800000038}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 437198}
+  m_RootOrder: 6
+--- !u!4 &431070
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100556}
+  m_LocalRotation: {x: 0, y: 0, z: .0620531291, w: .998072863}
+  m_LocalPosition: {x: .918025553, y: -.177065745, z: -.00500000035}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 411142}
+  m_RootOrder: 0
+--- !u!4 &437198
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106230}
+  m_LocalRotation: {x: 0, y: 0, z: .702213705, w: .711966217}
+  m_LocalPosition: {x: -.403225809, y: -.0806451589, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 465652}
+  - {fileID: 437774}
+  - {fileID: 456172}
+  - {fileID: 418278}
+  - {fileID: 409564}
+  - {fileID: 477628}
+  - {fileID: 427406}
+  m_Father: {fileID: 403196}
+  m_RootOrder: 21
+--- !u!4 &437774
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 189372}
+  m_LocalRotation: {x: 0, y: 0, z: .997793853, w: .0663882196}
+  m_LocalPosition: {x: 1.65223432, y: -1.67092001, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 411142}
+  - {fileID: 491176}
+  m_Father: {fileID: 437198}
+  m_RootOrder: 1
+--- !u!4 &439946
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 125738}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.18363631, y: .213636369, z: -.00100000005}
+  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 418278}
+  m_RootOrder: 0
 --- !u!4 &446946
 Transform:
   m_ObjectHideFlags: 1
@@ -671,6 +1047,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 403196}
   m_RootOrder: 20
+--- !u!4 &456172
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 132606}
+  m_LocalRotation: {x: 0, y: 0, z: .994716048, w: .102664419}
+  m_LocalPosition: {x: 1.72219431, y: 1.44324434, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 413122}
+  - {fileID: 492438}
+  m_Father: {fileID: 437198}
+  m_RootOrder: 2
 --- !u!4 &456900
 Transform:
   m_ObjectHideFlags: 1
@@ -697,6 +1087,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 403196}
   m_RootOrder: 4
+--- !u!4 &458806
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 112442}
+  m_LocalRotation: {x: 0, y: 0, z: 8.74227837e-08, w: 1}
+  m_LocalPosition: {x: -1.8781817, y: .205454558, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 409564}
+  m_RootOrder: 0
 --- !u!4 &464336
 Transform:
   m_ObjectHideFlags: 1
@@ -709,6 +1111,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 456900}
   m_RootOrder: 1
+--- !u!4 &465652
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 150130}
+  m_LocalRotation: {x: 0, y: 0, z: .00689606415, w: .999976218}
+  m_LocalPosition: {x: 2.33893204, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 496430}
+  m_Father: {fileID: 437198}
+  m_RootOrder: 0
 --- !u!4 &466270
 Transform:
   m_ObjectHideFlags: 1
@@ -782,6 +1197,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 403196}
   m_RootOrder: 15
+--- !u!4 &477628
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.14545441, y: 2.32921052, z: -.00200000009}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 437198}
+  m_RootOrder: 5
 --- !u!4 &481690
 Transform:
   m_ObjectHideFlags: 1
@@ -819,6 +1246,30 @@ Transform:
   m_Children: []
   m_Father: {fileID: 403196}
   m_RootOrder: 16
+--- !u!4 &491176
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126480}
+  m_LocalRotation: {x: 0, y: 0, z: .0229104124, w: -.999737561}
+  m_LocalPosition: {x: .139090925, y: 1.85874343, z: -.00700000022}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 437774}
+  m_RootOrder: 1
+--- !u!4 &492438
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 109220}
+  m_LocalRotation: {x: 0, y: 0, z: .129024774, w: .991641402}
+  m_LocalPosition: {x: -3.22000003, y: -.329700172, z: -.00600000005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 456172}
+  m_RootOrder: 1
 --- !u!4 &494230
 Transform:
   m_ObjectHideFlags: 1
@@ -831,6 +1282,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 403196}
   m_RootOrder: 7
+--- !u!4 &496430
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143422}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.32727265, y: 5.29096889, z: -.00300000003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 465652}
+  m_RootOrder: 0
 --- !u!4 &498332
 Transform:
   m_ObjectHideFlags: 1
@@ -889,7 +1352,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -925,7 +1388,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1107,7 +1570,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1143,7 +1606,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1179,7 +1642,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1422,7 +1885,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1458,7 +1921,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1494,7 +1957,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1738,7 +2201,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -1900,7 +2363,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: back thigh
+    path: bone_005/bone_013/back thigh
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -1914,7 +2377,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -1928,7 +2391,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm_000
+    path: bone_005/bone_011/arm_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -1942,7 +2405,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -1956,7 +2419,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -1970,7 +2433,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm
+    path: bone_005/bone_009/arm
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -2000,19 +2463,19 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
@@ -2054,13 +2517,13 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 2
       script: {fileID: 0}
       classID: 4
@@ -2090,19 +2553,19 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 3
       script: {fileID: 0}
       classID: 4
@@ -2144,7 +2607,7 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
@@ -2192,37 +2655,37 @@ AnimationClip:
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
@@ -2273,6 +2736,22 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .200000003
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
         value: {x: 0, y: 0, z: .055526793, w: .998457193}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
@@ -2289,7 +2768,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2310,7 +2789,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -2328,7 +2807,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2349,7 +2828,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2370,7 +2849,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2457,7 +2936,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -2523,7 +3002,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm_000
+    path: bone_005/bone_011/arm_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -2537,7 +3016,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -2551,7 +3030,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -2565,7 +3044,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm
+    path: bone_005/bone_009/arm
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -2576,13 +3055,13 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
@@ -2606,7 +3085,7 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
@@ -2630,43 +3109,49 @@ AnimationClip:
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 1039409622
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 796444603
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2895681908
       attribute: 2
       script: {fileID: 0}
       classID: 4
@@ -2706,7 +3191,74 @@ AnimationClip:
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
-  m_RotationCurves: []
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .206000015
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .400000006
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .600000024
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .800000012
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0620531328, w: .998072863}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .206000015
+        value: {x: 0, y: 0, z: .0620531328, w: .998072863}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .600000024
+        value: {x: 0, y: 0, z: .0620531328, w: .998072863}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .800000012
+        value: {x: 0, y: 0, z: .0620531328, w: .998072863}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: .0620531328, w: .998072863}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_009/bone_010/gun copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -2744,7 +3296,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2780,7 +3332,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2796,7 +3348,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2832,7 +3384,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2863,7 +3415,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2894,7 +3446,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2925,7 +3477,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2956,7 +3508,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2977,7 +3529,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_ScaleCurves: []
   m_FloatCurves:
   - curve:
@@ -3016,7 +3568,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: back thigh
+    path: bone_005/bone_013/back thigh
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -3055,7 +3607,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -3094,7 +3646,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   m_PPtrCurves: []
@@ -3105,74 +3657,86 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 1911221995
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1039409622
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1559698164
+      attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
@@ -3237,7 +3801,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3263,7 +3827,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3289,7 +3853,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3315,7 +3879,23 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -3338,7 +3918,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3364,7 +3944,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3390,7 +3970,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3416,7 +3996,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3442,7 +4022,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3458,7 +4038,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3474,7 +4054,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3495,7 +4075,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3521,7 +4101,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -3543,7 +4123,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3569,7 +4149,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3595,7 +4175,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3621,7 +4201,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3647,7 +4227,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3663,7 +4243,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3679,7 +4259,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3700,7 +4280,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3726,7 +4306,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_FloatCurves:
   - curve:
       serializedVersion: 2
@@ -3749,7 +4329,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -3768,7 +4348,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: back thigh
+    path: bone_005/bone_013/back thigh
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -3787,7 +4367,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -3811,7 +4391,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: chest copy
+    path: bone_005/chest copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   m_PPtrCurves: []
@@ -3822,157 +4402,163 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 1039409622
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 796444603
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 3
       script: {fileID: 0}
       classID: 4
@@ -4172,7 +4758,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4188,7 +4774,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4204,7 +4790,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4220,7 +4806,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4236,7 +4822,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -4378,7 +4964,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4394,7 +4980,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4410,7 +4996,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4426,7 +5012,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4442,7 +5028,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_ScaleCurves: []
   m_FloatCurves:
   - curve:
@@ -4461,7 +5047,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: back thigh
+    path: bone_005/bone_013/back thigh
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -4522,7 +5108,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: chest copy
+    path: bone_005/chest copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -4541,7 +5127,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -4560,7 +5146,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -4579,7 +5165,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: shoulders copy
+    path: bone_005/shoulders copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -4593,7 +5179,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -4607,7 +5193,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm_000
+    path: bone_005/bone_011/arm_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -4621,7 +5207,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -4635,7 +5221,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm
+    path: bone_005/bone_009/arm
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -4694,7 +5280,7 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
@@ -4718,109 +5304,109 @@ AnimationClip:
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 2
       script: {fileID: 0}
       classID: 4
@@ -4865,6 +5451,22 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
         value: {x: 0, y: 0, z: .055526793, w: .998457193}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
@@ -4881,7 +5483,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4907,7 +5509,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -4930,7 +5532,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4951,7 +5553,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4977,7 +5579,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5027,7 +5629,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -5055,7 +5657,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm_000
+    path: bone_005/bone_011/arm_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -5069,7 +5671,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -5083,7 +5685,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -5097,7 +5699,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm
+    path: bone_005/bone_009/arm
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -5108,19 +5710,19 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
@@ -5132,7 +5734,7 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
@@ -5144,37 +5746,43 @@ AnimationClip:
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 1039409622
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 796444603
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2895681908
       attribute: 2
       script: {fileID: 0}
       classID: 4
@@ -5220,6 +5828,27 @@ AnimationClip:
       m_Curve:
       - time: 0
         value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
         inSlope: {x: -0, y: -0, z: -.722925425, w: -.026165247}
         outSlope: {x: -0, y: -0, z: -.722925425, w: -.026165247}
         tangentMode: 0
@@ -5235,7 +5864,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5261,7 +5890,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5282,7 +5911,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5303,7 +5932,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5324,7 +5953,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5345,7 +5974,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5366,7 +5995,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -5389,7 +6018,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5410,7 +6039,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5431,7 +6060,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5457,7 +6086,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5478,7 +6107,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5499,7 +6128,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5520,7 +6149,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5541,7 +6170,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5562,7 +6191,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_ScaleCurves: []
   m_FloatCurves:
   - curve:
@@ -5591,7 +6220,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   m_PPtrCurves: []
@@ -5602,106 +6231,112 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 1911221995
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1039409622
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
       customType: 0
       isPPtrCurve: 0
     pptrCurveMapping: []
@@ -5769,7 +6404,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5800,7 +6435,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5831,7 +6466,43 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .206000015
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .400000006
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .600000024
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .800000012
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5862,7 +6533,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -5895,7 +6566,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5926,7 +6597,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5957,7 +6628,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -5988,7 +6659,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6024,7 +6695,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6060,7 +6731,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6091,7 +6762,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6122,7 +6793,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6153,7 +6824,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -6185,7 +6856,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6216,7 +6887,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6247,7 +6918,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6278,7 +6949,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6309,7 +6980,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_FloatCurves:
   - curve:
       serializedVersion: 2
@@ -6342,7 +7013,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -6381,7 +7052,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -6420,7 +7091,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: back thigh
+    path: bone_005/bone_013/back thigh
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -6454,7 +7125,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: chest copy
+    path: bone_005/chest copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   m_PPtrCurves: []
@@ -6465,133 +7136,139 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 2556329620
+    - path: 2921101124
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 1039409622
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2836760588
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2921101124
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 3
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 3
       script: {fileID: 0}
       classID: 4
@@ -6647,7 +7324,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6663,7 +7340,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6679,7 +7356,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6700,7 +7377,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6721,7 +7398,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -6827,7 +7504,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6848,7 +7525,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6869,7 +7546,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6895,7 +7572,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -6921,7 +7598,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_ScaleCurves: []
   m_FloatCurves:
   - curve:
@@ -6940,7 +7617,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: back thigh
+    path: bone_005/bone_013/back thigh
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -7016,7 +7693,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: chest copy
+    path: bone_005/chest copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -7035,31 +7712,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
-    classID: 114
-    script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - time: .00100000005
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 0
-      - time: .75000006
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 0
-      - time: 1
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-    attribute: DisplayedSprite
-    path: gun copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -7083,7 +7736,31 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: shoulders copy
+    path: bone_005/bone_009/bone_010/gun copy
+    classID: 114
+    script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .00100000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .75000006
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: DisplayedSprite
+    path: bone_005/shoulders copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -7097,7 +7774,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -7111,7 +7788,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm_000
+    path: bone_005/bone_011/arm_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -7125,7 +7802,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -7139,7 +7816,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm
+    path: bone_005/bone_009/arm
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -7168,13 +7845,13 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
@@ -7198,103 +7875,103 @@ AnimationClip:
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 2
       script: {fileID: 0}
       classID: 4
@@ -7339,6 +8016,42 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .204000011
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .400000006
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .604000032
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .800000012
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
         value: {x: 0, y: 0, z: .055526793, w: .998457193}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
@@ -7370,7 +8083,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -7406,7 +8119,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
@@ -7444,7 +8157,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: back thigh
+    path: bone_005/bone_013/back thigh
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -7480,7 +8193,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -7496,7 +8209,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -7532,7 +8245,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -7568,7 +8281,7 @@ AnimationClip:
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -7643,7 +8356,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: back thigh
+    path: bone_005/bone_013/back thigh
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -7682,7 +8395,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: leg_0 copy_000
+    path: bone_005/bone_012/leg_0 copy_000
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -7721,7 +8434,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: DisplayedSprite
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
     classID: 114
     script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
   - curve:
@@ -7749,7 +8462,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm_000
+    path: bone_005/bone_011/arm_000
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -7763,7 +8476,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -7777,7 +8490,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -7791,7 +8504,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_IsActive
-    path: arm
+    path: bone_005/bone_009/arm
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -7802,25 +8515,25 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 1911221995
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 2895681908
       attribute: 1
       script: {fileID: 0}
       classID: 4
@@ -7832,19 +8545,19 @@ AnimationClip:
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 1911221995
+    - path: 1039409622
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 2871085664
+    - path: 919607444
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 796444603
       attribute: 3401649971
       script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
       classID: 114
@@ -7856,43 +8569,49 @@ AnimationClip:
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 2836760588
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 1559698164
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 3768748606
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 2921101124
       attribute: 2086281974
       script: {fileID: 0}
       classID: 1
       customType: 0
       isPPtrCurve: 0
-    - path: 1189516445
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 1039409622
       attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 796444603
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2895681908
       attribute: 2
       script: {fileID: 0}
       classID: 4
@@ -7932,216 +8651,507 @@ AnimationClip:
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
-  m_RotationCurves: []
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -8.74227766e-08, w: -1}
+        inSlope: {x: -0, y: -0, z: -698.838379, w: 284.720459}
+        outSlope: {x: -0, y: -0, z: -698.838379, w: 284.720459}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: -0, y: -0, z: -.698838472, w: -.71527952}
+        inSlope: {x: 0, y: 0, z: -349.069427, w: 142.217728}
+        outSlope: {x: 0, y: 0, z: -349.069427, w: 142.217728}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: -8.74227766e-08, w: -1}
+        inSlope: {x: 0, y: 0, z: .699537933, w: -.28500548}
+        outSlope: {x: 0, y: 0, z: .699537933, w: -.28500548}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 707.10675, w: -292.893219}
+        outSlope: {x: 0, y: 0, z: 707.10675, w: -292.893219}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: 0, y: 0, z: .707106769, w: .707106769}
+        inSlope: {x: 0, y: 0, z: 353.199463, w: -146.300018}
+        outSlope: {x: 0, y: 0, z: 353.199463, w: -146.300018}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: -.707814574, w: .293186426}
+        outSlope: {x: 0, y: 0, z: -.707814574, w: .293186426}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_012/leg_0 copy_000
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: -0, y: -0, z: -702.213745, w: -288.033844}
+        outSlope: {x: -0, y: -0, z: -702.213745, w: -288.033844}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: -0, y: -0, z: -.702213764, w: .711966157}
+        inSlope: {x: 0, y: 0, z: -350.403259, w: -143.728317}
+        outSlope: {x: 0, y: 0, z: -350.403259, w: -143.728317}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: .70362097, w: .288611054}
+        outSlope: {x: 0, y: 0, z: .70362097, w: .288611054}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/chest copy
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: -0, y: -0, z: -707.10675, w: -292.893219}
+        outSlope: {x: -0, y: -0, z: -707.10675, w: -292.893219}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: -0, y: -0, z: -.707106769, w: .707106769}
+        inSlope: {x: 0, y: 0, z: -352.844849, w: -146.153122}
+        outSlope: {x: 0, y: 0, z: -352.844849, w: -146.153122}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: .70852381, w: .293480188}
+        outSlope: {x: 0, y: 0, z: .70852381, w: .293480188}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_006/head_happy copy
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00856761821, w: -.999963284}
+        inSlope: {x: -0, y: -0, z: -783.477234, w: 367.891235}
+        outSlope: {x: -0, y: -0, z: -783.477234, w: 367.891235}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: -0, y: -0, z: -.774909616, w: -.632072031}
+        inSlope: {x: 0, y: 0, z: -390.953583, w: 183.576996}
+        outSlope: {x: 0, y: 0, z: -390.953583, w: 183.576996}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .00856761821, w: -.999963284}
+        inSlope: {x: 0, y: 0, z: .785047293, w: -.368628502}
+        outSlope: {x: 0, y: 0, z: .785047293, w: -.368628502}
+        tangentMode: 0
+      - time: .751000047
+        value: {x: 0, y: 0, z: .00856761821, w: -.999963284}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: .00856761821, w: -.999963284}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_011/arm_000
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0620531254, w: .998072863}
+        inSlope: {x: 0, y: 0, z: 937.941162, w: -1001.43127}
+        outSlope: {x: 0, y: 0, z: 937.941162, w: -1001.43127}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: 0, y: 0, z: .999994338, w: -.0033585208}
+        inSlope: {x: 0, y: 0, z: 468.030762, w: -499.712189}
+        outSlope: {x: 0, y: 0, z: 468.030762, w: -499.712189}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .0620531328, w: .998072863}
+        inSlope: {x: 0, y: 0, z: -.939820826, w: 1.00343823}
+        outSlope: {x: 0, y: 0, z: -.939820826, w: 1.00343823}
+        tangentMode: 0
+      - time: .751000047
+        value: {x: 0, y: 0, z: .0620531328, w: .998072863}
+        inSlope: {x: 0, y: 0, z: -1.49610084e-08, w: 0}
+        outSlope: {x: 0, y: 0, z: -1.49610084e-08, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: .0620531254, w: .998072863}
+        inSlope: {x: 0, y: 0, z: -2.99220169e-08, w: 0}
+        outSlope: {x: 0, y: 0, z: -2.99220169e-08, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_009/bone_010/gun copy
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .129024744, w: .991641402}
+        inSlope: {x: 0, y: 0, z: 725.442932, w: -472.136841}
+        outSlope: {x: 0, y: 0, z: 725.442932, w: -472.136841}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: 0, y: 0, z: .85446769, w: .519504547}
+        inSlope: {x: 0, y: 0, z: 361.994568, w: -235.595337}
+        outSlope: {x: 0, y: 0, z: 361.994568, w: -235.595337}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .129024744, w: .991641402}
+        inSlope: {x: 0, y: 0, z: -.726896703, w: .473083019}
+        outSlope: {x: 0, y: 0, z: -.726896703, w: .473083019}
+        tangentMode: 0
+      - time: .751000047
+        value: {x: 0, y: 0, z: .129024744, w: .991641402}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: .129024744, w: .991641402}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_011/armhold2 copy
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0229108874, w: -.999737501}
+        inSlope: {x: -0, y: -0, z: -764.756531, w: 329.166809}
+        outSlope: {x: -0, y: -0, z: -764.756531, w: 329.166809}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: -0, y: -0, z: -.741845667, w: -.670570672}
+        inSlope: {x: 0, y: 0, z: -381.611969, w: 164.253571}
+        outSlope: {x: 0, y: 0, z: -381.611969, w: 164.253571}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: .0229108874, w: -.999737501}
+        inSlope: {x: 0, y: 0, z: .766289115, w: -.329826474}
+        outSlope: {x: 0, y: 0, z: .766289115, w: -.329826474}
+        tangentMode: 0
+      - time: .751000047
+        value: {x: 0, y: 0, z: .0229108874, w: -.999737501}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: .0229108874, w: -.999737501}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_009/arm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: -0, y: -0, z: -702.213745, w: -288.033844}
+        outSlope: {x: -0, y: -0, z: -702.213745, w: -288.033844}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: -0, y: -0, z: -.702213764, w: .711966157}
+        inSlope: {x: 0, y: 0, z: -350.403259, w: -143.728317}
+        outSlope: {x: 0, y: 0, z: -350.403259, w: -143.728317}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: .70362097, w: .288611054}
+        outSlope: {x: 0, y: 0, z: .70362097, w: .288611054}
+        tangentMode: 0
+      - time: .751000047
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/shoulders copy
   m_CompressedRotationCurves: []
   m_PositionCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -2.14545441, y: 2.32909083, z: -.00200000009}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: -1.8781817, y: .205454558, z: -0}
+        inSlope: {x: 1282.9978, y: -1005.49872, z: 0}
+        outSlope: {x: 1282.9978, y: -1005.49872, z: 0}
         tangentMode: 0
       - time: .00100000005
-        value: {x: -2.14545441, y: 2.32909083, z: -.00200000009}
-        inSlope: {x: 0, y: .12024036, z: 0}
-        outSlope: {x: 0, y: .12024036, z: 0}
+        value: {x: -.59518379, y: -.800044179, z: -0}
+        inSlope: {x: 640.85675, y: -502.246094, z: 0}
+        outSlope: {x: 640.85675, y: -502.246094, z: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: -1.8781817, y: .205454558, z: -0}
+        inSlope: {x: -1.28428209, y: 1.00650525, z: 0}
+        outSlope: {x: -1.28428209, y: 1.00650525, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_013/back thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.18363631, y: .213636369, z: -.00100000005}
+        inSlope: {x: -1719.85315, y: 647.419312, z: 0}
+        outSlope: {x: -1719.85315, y: 647.419312, z: 0}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: -.536216974, y: .861055732, z: -.00100000005}
+        inSlope: {x: -859.065796, y: 323.38562, z: 0}
+        outSlope: {x: -859.065796, y: 323.38562, z: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 1.18363631, y: .213636369, z: -.00100000005}
+        inSlope: {x: 1.72157478, y: -.648067415, z: 0}
+        outSlope: {x: 1.72157478, y: -.648067415, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: bone_005/bone_012/leg_0 copy_000
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.14545441, y: 2.32921052, z: -.00200000009}
+        inSlope: {x: 4530.93213, y: -553.912842, z: 0}
+        outSlope: {x: 4530.93213, y: -553.912842, z: 0}
+        tangentMode: 0
+      - time: .00100000005
+        value: {x: 2.38547826, y: 1.77529764, z: -.00200000009}
+        inSlope: {x: 2260.92603, y: -276.3414, z: 0}
+        outSlope: {x: 2260.92603, y: -276.3414, z: 0}
         tangentMode: 0
       - time: .5
         value: {x: -2.14545441, y: 2.38909078, z: -.00200000009}
-        inSlope: {x: 0, y: .00012023747, z: 0}
-        outSlope: {x: 0, y: .00012023747, z: 0}
+        inSlope: {x: -4.54001236, y: .555142879, z: 0}
+        outSlope: {x: -4.54001236, y: .555142879, z: 0}
         tangentMode: 0
       - time: 1
-        value: {x: -2.14545441, y: 2.32909083, z: -.00200000009}
-        inSlope: {x: 0, y: -.119999886, z: 0}
-        outSlope: {x: 0, y: -.119999886, z: 0}
+        value: {x: -2.14545441, y: 2.32921052, z: -.00200000009}
+        inSlope: {x: 0, y: -.119760513, z: 0}
+        outSlope: {x: 0, y: -.119760513, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: chest copy
+    path: bone_005/chest copy
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -2.32727265, y: 5.29090881, z: -.00300000003}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: -2.32727265, y: 5.29096889, z: -.00300000003}
+        inSlope: {x: 5360.1167, y: -3334.66382, z: 0}
+        outSlope: {x: 5360.1167, y: -3334.66382, z: 0}
         tangentMode: 0
       - time: .00100000005
-        value: {x: -2.32727265, y: 5.29090881, z: -.00300000003}
-        inSlope: {x: 0, y: .0601197034, z: 0}
-        outSlope: {x: 0, y: .0601197034, z: 0}
+        value: {x: 3.03284454, y: 1.95630491, z: -.00300000003}
+        inSlope: {x: 2674.6875, y: -1663.96057, z: 0}
+        outSlope: {x: 2674.6875, y: -1663.96057, z: 0}
         tangentMode: 0
       - time: .5
         value: {x: -2.32727265, y: 5.32090855, z: -.00300000003}
-        inSlope: {x: 0, y: 6.01187348e-05, z: 0}
-        outSlope: {x: 0, y: 6.01187348e-05, z: 0}
+        inSlope: {x: -5.37085867, y: 3.34140658, z: 0}
+        outSlope: {x: -5.37085867, y: 3.34140658, z: 0}
         tangentMode: 0
       - time: 1
-        value: {x: -2.32727265, y: 5.29090881, z: -.00300000003}
-        inSlope: {x: 0, y: -.0599994659, z: 0}
-        outSlope: {x: 0, y: -.0599994659, z: 0}
+        value: {x: -2.32727265, y: 5.29096889, z: -.00300000003}
+        inSlope: {x: 0, y: -.059879303, z: 0}
+        outSlope: {x: 0, y: -.059879303, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: head_happy copy
+    path: bone_005/bone_006/head_happy copy
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -1.37636364, y: 1.60909081, z: -.00400000019}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: -1.37636364, y: 1.60939074, z: -.00400000019}
+        inSlope: {x: 1330.15808, y: -1162.51331, z: 0}
+        outSlope: {x: 1330.15808, y: -1162.51331, z: 0}
         tangentMode: 0
       - time: .00100000005
-        value: {x: -1.37636364, y: 1.60909081, z: -.00400000019}
-        inSlope: {x: 0, y: .100200541, z: 0}
-        outSlope: {x: 0, y: .100200541, z: 0}
+        value: {x: -.0462055765, y: .44687739, z: -.00400000019}
+        inSlope: {x: 663.746216, y: -580.041992, z: 0}
+        outSlope: {x: 663.746216, y: -580.041992, z: 0}
         tangentMode: 0
       - time: .5
         value: {x: -1.37636364, y: 1.65909088, z: -.00400000019}
-        inSlope: {x: 0, y: .0998015106, z: 0}
-        outSlope: {x: 0, y: .0998015106, z: 0}
+        inSlope: {x: -1.33282375, y: 1.26434398, z: 0}
+        outSlope: {x: -1.33282375, y: 1.26434398, z: 0}
         tangentMode: 0
       - time: .751000047
         value: {x: -1.37636364, y: 1.6840409, z: -.00400000019}
-        inSlope: {x: 0, y: -.100800991, z: 0}
-        outSlope: {x: 0, y: -.100800991, z: 0}
+        inSlope: {x: 0, y: -.100198716, z: 0}
+        outSlope: {x: 0, y: -.100198716, z: 0}
         tangentMode: 0
       - time: 1
-        value: {x: -1.37636364, y: 1.60909081, z: -.00400000019}
-        inSlope: {x: 0, y: -.301004469, z: 0}
-        outSlope: {x: 0, y: -.301004469, z: 0}
+        value: {x: -1.37636364, y: 1.60939074, z: -.00400000019}
+        inSlope: {x: 0, y: -.299799919, z: 0}
+        outSlope: {x: 0, y: -.299799919, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm_000
+    path: bone_005/bone_011/arm_000
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .918025672, y: -.177365541, z: -.00500000035}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: .918025553, y: -.177065745, z: -.00500000035}
+        inSlope: {x: -720.617126, y: 462.29306, z: 0}
+        outSlope: {x: -720.617126, y: 462.29306, z: 0}
         tangentMode: 0
       - time: .00100000005
-        value: {x: .918025672, y: -.177365541, z: -.00500000035}
-        inSlope: {x: 0, y: .100200392, z: 0}
-        outSlope: {x: 0, y: .100200392, z: 0}
+        value: {x: .197408348, y: .285227358, z: -.00500000035}
+        inSlope: {x: -359.586487, y: 230.733109, z: 0}
+        outSlope: {x: -359.586487, y: 230.733109, z: 0}
         tangentMode: 0
       - time: .5
         value: {x: .918025672, y: -.127365544, z: -.00500000035}
-        inSlope: {x: 0, y: .0998015851, z: 0}
-        outSlope: {x: 0, y: .0998015851, z: 0}
+        inSlope: {x: .722061396, y: -.363718331, z: 0}
+        outSlope: {x: .722061396, y: -.363718331, z: 0}
         tangentMode: 0
       - time: .751000047
         value: {x: .918025672, y: -.102415442, z: -.00500000035}
-        inSlope: {x: 0, y: -.100800842, z: 0}
-        outSlope: {x: 0, y: -.100800842, z: 0}
+        inSlope: {x: -2.39376135e-07, y: -.100198835, z: 0}
+        outSlope: {x: -2.39376135e-07, y: -.100198835, z: 0}
         tangentMode: 0
       - time: 1
-        value: {x: .918025672, y: -.177365541, z: -.00500000035}
-        inSlope: {x: 0, y: -.301004469, z: 0}
-        outSlope: {x: 0, y: -.301004469, z: 0}
+        value: {x: .918025553, y: -.177065745, z: -.00500000035}
+        inSlope: {x: -4.7875227e-07, y: -.299800456, z: 0}
+        outSlope: {x: -4.7875227e-07, y: -.299800456, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: gun copy
+    path: bone_005/bone_009/bone_010/gun copy
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -3.22000003, y: -.329999983, z: -.00600000005}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: -3.22000003, y: -.329700172, z: -.00600000005}
+        inSlope: {x: 5467.77246, y: -600.640808, z: 0}
+        outSlope: {x: 5467.77246, y: -600.640808, z: 0}
         tangentMode: 0
       - time: .00100000005
-        value: {x: -3.22000003, y: -.329999983, z: -.00600000005}
-        inSlope: {x: 0, y: .100200363, z: 0}
-        outSlope: {x: 0, y: .100200363, z: 0}
+        value: {x: 2.24777293, y: -.930341005, z: -.00600000005}
+        inSlope: {x: 2728.40747, y: -299.668762, z: 0}
+        outSlope: {x: 2728.40747, y: -299.668762, z: 0}
         tangentMode: 0
       - time: .5
         value: {x: -3.22000003, y: -.280000001, z: -.00600000005}
-        inSlope: {x: 0, y: .0998016, z: 0}
-        outSlope: {x: 0, y: .0998016, z: 0}
+        inSlope: {x: -5.4787302, y: .701345682, z: 0}
+        outSlope: {x: -5.4787302, y: .701345682, z: 0}
         tangentMode: 0
       - time: .751000047
         value: {x: -3.22000003, y: -.255049884, z: -.00600000005}
-        inSlope: {x: 0, y: -.100800812, z: 0}
-        outSlope: {x: 0, y: -.100800812, z: 0}
+        inSlope: {x: 0, y: -.100198776, z: 0}
+        outSlope: {x: 0, y: -.100198776, z: 0}
         tangentMode: 0
       - time: 1
-        value: {x: -3.22000003, y: -.329999983, z: -.00600000005}
-        inSlope: {x: 0, y: -.301004469, z: 0}
-        outSlope: {x: 0, y: -.301004469, z: 0}
+        value: {x: -3.22000003, y: -.329700172, z: -.00600000005}
+        inSlope: {x: 0, y: -.299800396, z: 0}
+        outSlope: {x: 0, y: -.299800396, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: armhold2 copy
+    path: bone_005/bone_011/armhold2 copy
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: .139090911, y: 1.85844362, z: -.00700000022}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: .139090925, y: 1.85874343, z: -.00700000022}
+        inSlope: {x: -277.576172, y: -3042.927, z: 0}
+        outSlope: {x: -277.576172, y: -3042.927, z: 0}
         tangentMode: 0
       - time: .00100000005
-        value: {x: .139090911, y: 1.85844362, z: -.00700000022}
-        inSlope: {x: 0, y: .100200303, z: 0}
-        outSlope: {x: 0, y: .100200303, z: 0}
+        value: {x: -.138485253, y: -1.18418384, z: -.00700000022}
+        inSlope: {x: -138.509949, y: -1518.36462, z: 0}
+        outSlope: {x: -138.509949, y: -1518.36462, z: 0}
         tangentMode: 0
       - time: .5
         value: {x: .139090911, y: 1.90844357, z: -.00700000022}
-        inSlope: {x: 0, y: .0998016298, z: 0}
-        outSlope: {x: 0, y: .0998016298, z: 0}
+        inSlope: {x: .278132409, y: 3.14852643, z: 0}
+        outSlope: {x: .278132409, y: 3.14852643, z: 0}
         tangentMode: 0
       - time: .751000047
         value: {x: .139090911, y: 1.93339372, z: -.00700000022}
-        inSlope: {x: 0, y: -.100800753, z: 0}
-        outSlope: {x: 0, y: -.100800753, z: 0}
+        inSlope: {x: 2.99220169e-08, y: -.100198716, z: 0}
+        outSlope: {x: 2.99220169e-08, y: -.100198716, z: 0}
         tangentMode: 0
       - time: 1
-        value: {x: .139090911, y: 1.85844362, z: -.00700000022}
-        inSlope: {x: 0, y: -.301004469, z: 0}
-        outSlope: {x: 0, y: -.301004469, z: 0}
+        value: {x: .139090925, y: 1.85874343, z: -.00700000022}
+        inSlope: {x: 5.98440337e-08, y: -.299800396, z: 0}
+        outSlope: {x: 5.98440337e-08, y: -.299800396, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: arm
+    path: bone_005/bone_009/arm
   - curve:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -2.5090909, y: 2.18818164, z: -.00800000038}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: -2.5090909, y: 2.18846178, z: -.00800000038}
+        inSlope: {x: 4748.65771, y: -51.5058022, z: 0}
+        outSlope: {x: 4748.65771, y: -51.5058022, z: 0}
         tangentMode: 0
       - time: .00100000005
-        value: {x: -2.5090909, y: 2.18818164, z: -.00800000038}
-        inSlope: {x: 0, y: .140280902, z: 0}
-        outSlope: {x: 0, y: .140280902, z: 0}
+        value: {x: 2.23956752, y: 2.13695598, z: -.00800000038}
+        inSlope: {x: 2369.5708, y: -25.6314316, z: 0}
+        outSlope: {x: 2369.5708, y: -25.6314316, z: 0}
         tangentMode: 0
       - time: .5
         value: {x: -2.5090909, y: 2.25818181, z: -.00800000038}
-        inSlope: {x: 0, y: .0701404512, z: 0}
-        outSlope: {x: 0, y: .0701404512, z: 0}
+        inSlope: {x: -4.75817442, y: .121468768, z: 0}
+        outSlope: {x: -4.75817442, y: .121468768, z: 0}
         tangentMode: 0
       - time: .751000047
         value: {x: -2.5090909, y: 2.25818181, z: -.00800000038}
-        inSlope: {x: 0, y: -.140562624, z: 0}
-        outSlope: {x: 0, y: -.140562624, z: 0}
+        inSlope: {x: 0, y: -.14000009, z: 0}
+        outSlope: {x: 0, y: -.14000009, z: 0}
         tangentMode: 0
       - time: 1
-        value: {x: -2.5090909, y: 2.18818164, z: -.00800000038}
-        inSlope: {x: 0, y: -.281125247, z: 0}
-        outSlope: {x: 0, y: -.281125247, z: 0}
+        value: {x: -2.5090909, y: 2.18846178, z: -.00800000038}
+        inSlope: {x: 0, y: -.28000018, z: 0}
+        outSlope: {x: 0, y: -.28000018, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
-    path: shoulders copy
+    path: bone_005/shoulders copy
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves: []
@@ -8152,44 +9162,110 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 1189516445
+    - path: 1039409622
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 158306754
+    - path: 919607444
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3649010466
+    - path: 4016148041
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2661133559
+    - path: 796444603
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3539647426
+    - path: 2836760588
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 2556329620
+    - path: 1559698164
       attribute: 1
       script: {fileID: 0}
       classID: 4
       customType: 0
       isPPtrCurve: 0
-    - path: 3487007964
+    - path: 3768748606
       attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2921101124
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2895681908
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1039409622
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 919607444
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4016148041
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 796444603
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2836760588
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1559698164
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3768748606
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2921101124
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2895681908
+      attribute: 2
       script: {fileID: 0}
       classID: 4
       customType: 0
@@ -8235,119 +9311,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11413892
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 150996}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: ae3722dacf53c7e4ab4576e4745e13a1, type: 3}
-  - {fileID: 21300000, guid: d6aa959332a1048418a9e9d7d500cef3, type: 3}
---- !u!114 &11417014
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 149482}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: 8c3e5575f98a4b44b81002b687a958b0, type: 3}
-  - {fileID: 21300000, guid: 4dad58b55f6b70c488b8e3943eb385b4, type: 3}
-  - {fileID: 21300000, guid: 9e6c0f7efa956a449a8bf0852e1ab71d, type: 3}
---- !u!114 &11421436
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 132068}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
-  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
---- !u!114 &11427430
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 183770}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
-  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
---- !u!114 &11434800
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 124770}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8e9dda14b6f34517a0d598d3320a902, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sortingOrder: 0
-  applySpriterZOrder: 0
---- !u!114 &11437348
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 106994}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
-  - {fileID: 21300000, guid: b5b4aa66d3ad1904a8617c557b9b347f, type: 3}
-  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
-  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
-  - {fileID: 21300000, guid: 0279325a95379404ba89930084768cba, type: 3}
-  - {fileID: 21300000, guid: ce9afc5afe9943740972bb3c58b7a45b, type: 3}
---- !u!114 &11443742
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 126342}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
-  - {fileID: 21300000, guid: b5b4aa66d3ad1904a8617c557b9b347f, type: 3}
-  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
-  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
-  - {fileID: 21300000, guid: ce9afc5afe9943740972bb3c58b7a45b, type: 3}
-  - {fileID: 21300000, guid: 0279325a95379404ba89930084768cba, type: 3}
---- !u!114 &11459236
+--- !u!114 &11404908
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -8367,7 +9331,65 @@ MonoBehaviour:
   - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
   - {fileID: 21300000, guid: ce9afc5afe9943740972bb3c58b7a45b, type: 3}
   - {fileID: 21300000, guid: 0279325a95379404ba89930084768cba, type: 3}
---- !u!114 &11482822
+--- !u!114 &11407470
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 4bc2f6fd84a7fac4aaaf73c5c77fb2a7, type: 3}
+  - {fileID: 21300000, guid: 7fddf3fea5749a0449c5c439182f975d, type: 3}
+  - {fileID: 21300000, guid: 24c565a7b8bca9645bf126fd285a96ac, type: 3}
+  - {fileID: 21300000, guid: 78564a657509d5d418b66b52bea2285d, type: 3}
+  - {fileID: 21300000, guid: 147c707c16aa2fb47b89201809444d40, type: 3}
+  - {fileID: 21300000, guid: c5e21b55e1fab6644bbdd25db36ee9c5, type: 3}
+  - {fileID: 21300000, guid: c7c0c7d29a5e4944db7ae9ef172a799b, type: 3}
+--- !u!114 &11417710
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
+  - {fileID: 21300000, guid: b5b4aa66d3ad1904a8617c557b9b347f, type: 3}
+  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
+  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
+  - {fileID: 21300000, guid: 0279325a95379404ba89930084768cba, type: 3}
+  - {fileID: 21300000, guid: ce9afc5afe9943740972bb3c58b7a45b, type: 3}
+--- !u!114 &11424500
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 125738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
+  - {fileID: 21300000, guid: b5b4aa66d3ad1904a8617c557b9b347f, type: 3}
+  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
+  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
+  - {fileID: 21300000, guid: 0279325a95379404ba89930084768cba, type: 3}
+  - {fileID: 21300000, guid: ce9afc5afe9943740972bb3c58b7a45b, type: 3}
+--- !u!114 &11429926
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -8382,7 +9404,50 @@ MonoBehaviour:
   Sprites:
   - {fileID: 21300000, guid: 600c822ad45935b4fa9bc61f28a11126, type: 3}
   - {fileID: 21300000, guid: 31881acd5d95fb94592c281d1a8ba47e, type: 3}
---- !u!114 &11497684
+--- !u!114 &11434800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e9dda14b6f34517a0d598d3320a902, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sortingOrder: 0
+  applySpriterZOrder: 0
+--- !u!114 &11437154
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 150996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: ae3722dacf53c7e4ab4576e4745e13a1, type: 3}
+  - {fileID: 21300000, guid: d6aa959332a1048418a9e9d7d500cef3, type: 3}
+--- !u!114 &11438640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 132068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
+  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
+--- !u!114 &11443306
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -8402,6 +9467,122 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 147c707c16aa2fb47b89201809444d40, type: 3}
   - {fileID: 21300000, guid: c5e21b55e1fab6644bbdd25db36ee9c5, type: 3}
   - {fileID: 21300000, guid: c7c0c7d29a5e4944db7ae9ef172a799b, type: 3}
+--- !u!114 &11443742
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
+  - {fileID: 21300000, guid: b5b4aa66d3ad1904a8617c557b9b347f, type: 3}
+  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
+  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
+  - {fileID: 21300000, guid: ce9afc5afe9943740972bb3c58b7a45b, type: 3}
+  - {fileID: 21300000, guid: 0279325a95379404ba89930084768cba, type: 3}
+--- !u!114 &11463726
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: ae3722dacf53c7e4ab4576e4745e13a1, type: 3}
+  - {fileID: 21300000, guid: d6aa959332a1048418a9e9d7d500cef3, type: 3}
+--- !u!114 &11475858
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 8c3e5575f98a4b44b81002b687a958b0, type: 3}
+  - {fileID: 21300000, guid: 4dad58b55f6b70c488b8e3943eb385b4, type: 3}
+  - {fileID: 21300000, guid: 9e6c0f7efa956a449a8bf0852e1ab71d, type: 3}
+--- !u!114 &11477358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 112442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
+  - {fileID: 21300000, guid: bdfb5d4a833ef0d488e701afc43734a0, type: 3}
+  - {fileID: 21300000, guid: b5b4aa66d3ad1904a8617c557b9b347f, type: 3}
+  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
+  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
+  - {fileID: 21300000, guid: ce9afc5afe9943740972bb3c58b7a45b, type: 3}
+  - {fileID: 21300000, guid: 0279325a95379404ba89930084768cba, type: 3}
+--- !u!114 &11482994
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 183770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
+  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
+--- !u!114 &11491390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 600c822ad45935b4fa9bc61f28a11126, type: 3}
+  - {fileID: 21300000, guid: 31881acd5d95fb94592c281d1a8ba47e, type: 3}
+--- !u!114 &11498140
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 8c3e5575f98a4b44b81002b687a958b0, type: 3}
+  - {fileID: 21300000, guid: 4dad58b55f6b70c488b8e3943eb385b4, type: 3}
+  - {fileID: 21300000, guid: 9e6c0f7efa956a449a8bf0852e1ab71d, type: 3}
 --- !u!212 &21202784
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -8454,6 +9635,32 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 97fa43481085c3a458819c09c27fb182, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21205554
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 112442}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!212 &21211652
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -8495,6 +9702,32 @@ SpriteRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
   m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: de7df86beff9b8c4788280706fb2ae99, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21217126
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128558}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
   m_ProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
   m_PreserveUVs: 0
@@ -8610,6 +9843,32 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 54a222104f781b143ad0161450062d2d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
+--- !u!212 &21228436
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126480}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 44344c76c5aefd647bc7101e979f41be, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!212 &21229210
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -8635,6 +9894,58 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c0103fa2bdd1a3e47bcf4ed871ada413, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21239344
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100556}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: ae3722dacf53c7e4ab4576e4745e13a1, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21241436
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143422}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 4bc2f6fd84a7fac4aaaf73c5c77fb2a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!212 &21247542
 SpriteRenderer:
@@ -8818,6 +10129,84 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: ae3722dacf53c7e4ab4576e4745e13a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21276272
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110468}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 600c822ad45935b4fa9bc61f28a11126, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21276588
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 109220}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 97fa43481085c3a458819c09c27fb182, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21276616
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110608}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 8c3e5575f98a4b44b81002b687a958b0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!212 &21281834
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -8869,6 +10258,32 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: f8644536acbe0df4bbc4008c7f455849, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!212 &21293442
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 125738}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!212 &21293598
 SpriteRenderer:
