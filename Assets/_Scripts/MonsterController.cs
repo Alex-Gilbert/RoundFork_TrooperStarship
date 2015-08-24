@@ -78,9 +78,16 @@ public class MonsterController : MonoBehaviour
             {
                 collision.gameObject.SendMessage("Executed");
                 impalerAnimator.SetTrigger("HitSoldier");
-            }
 
-            //End Launch
+                
+
+                MakeNoise(50);
+            }
+            else
+                impalerAnimator.SetTrigger("Landed");
+
+            launchCheck = false;
+            launched = false;
         }
     }
 
@@ -134,6 +141,8 @@ public class MonsterController : MonoBehaviour
                     print("landed");
                     launchCheck = false;
                     launched = false;
+
+                    MakeNoise(20);
 
                     impalerAnimator.SetTrigger("Landed");
                 }
