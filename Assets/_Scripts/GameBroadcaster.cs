@@ -12,6 +12,8 @@ public class GameBroadcaster
     private static GameBroadcaster instance;
     private GameBroadcaster() { }
 
+    
+
     public static GameBroadcaster Instance
     {
         get
@@ -51,6 +53,13 @@ public class GameBroadcaster
         {
             PlayerHit(shooter, damage);
         }
+    }
+
+    public event UnityAction CapsuleBroken;
+    public void OnCapsuleBroken(GameObject capsule, float empty)
+    {
+        if (CapsuleBroken != null)
+            CapsuleBroken(capsule, empty);
     }
 
     public event UnityAction SoldierNeedsHelp;

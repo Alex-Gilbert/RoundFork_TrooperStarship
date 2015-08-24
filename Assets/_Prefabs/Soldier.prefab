@@ -130,6 +130,7 @@ MonoBehaviour:
   raysToCast: 10
   rayCheckLength: 10
   TimeToRayCheck: .5
+  state: 0
   playerShootRange: 10
   TimeToShoot: 1
   timeToChase: 5

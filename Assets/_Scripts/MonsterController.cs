@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class MonsterController : MonoBehaviour 
@@ -70,24 +71,32 @@ public class MonsterController : MonoBehaviour
     bool launched = false;
     bool launchCheck = false;
 
+    public Image stamFill;
+
+    float Stamina;
+    public float StaminaRegen;
+
+
     public void OnCollisionEnter(Collision collision)
     {
         if(launched)
         {
-            if(collision.gameObject.tag == "Enemy")
+            if (collision.gameObject.tag == "Enemy" && collision.gameObject.GetComponent<Soldier>().state != SoldierState.Dead)
             {
                 collision.gameObject.SendMessage("Executed");
                 impalerAnimator.SetTrigger("HitSoldier");
-
-                
-
-                MakeNoise(50);
+                MakeNoise(10);
             }
             else
+            {
                 impalerAnimator.SetTrigger("Landed");
+                MakeNoise(10);
+            }
 
             launchCheck = false;
             launched = false;
+
+            Stamina -= 1;
         }
     }
 
@@ -104,6 +113,8 @@ public class MonsterController : MonoBehaviour
         jumpDir = new Vector3(1, 0, 0);
         cameraT = Camera.main.transform;
         rb = this.GetComponent<Rigidbody>();
+
+        Stamina = 1;
 	}
 
     public void FixedUpdate()
@@ -115,6 +126,10 @@ public class MonsterController : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
     {
+        Stamina += StaminaRegen * Time.deltaTime;
+        Stamina = Mathf.Clamp(Stamina, 0, 1);
+        
+
         stateinfo = impalerAnimator.GetCurrentAnimatorStateInfo(0);
 
         RecoverDamage();
@@ -145,6 +160,7 @@ public class MonsterController : MonoBehaviour
                     MakeNoise(20);
 
                     impalerAnimator.SetTrigger("Landed");
+                    Stamina -= 1;
                 }
             }
         }
@@ -170,30 +186,40 @@ public class MonsterController : MonoBehaviour
 
             moveAmount *= (Input.GetKey(KeyCode.LeftShift) ? .5f : 1f);
 
-            if (!chargingJump && grounded)
+            if (!chargingJump && grounded && Stamina >= .75f)
             {
                 if (doubleTapA)
                 {
                     rb.velocity = Vector3.zero;
                     rb.angularVelocity = Vector3.zero;
                     rb.AddForce(transform.rotation * new Vector3(-1, .35f, 0) * 100 * leapForce);
+
+                    MakeNoise(5);
+
+                    Stamina -= .75f;
                 }
                 else if (doubleTapD)
                 {
                     rb.velocity = Vector3.zero;
                     rb.angularVelocity = Vector3.zero;
                     rb.AddForce(transform.rotation * new Vector3(1, .35f, 0) * 100 * leapForce);
+
+                    MakeNoise(5);
+
+                    Stamina -= .75f;
                 }
             }
 
-            if (Input.GetButton("Jump") && !chargingJump && stateinfo.IsName("Movement") && grounded)
+            if (Input.GetButton("Jump") && !chargingJump && stateinfo.IsName("Movement") && grounded && Stamina >= .95f)
             {
                 StopCoroutine(ChargeJump());
                 StartCoroutine(ChargeJump());
             }
 
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetMouseButtonDown(0) && Stamina >= .5f && stateinfo.IsName("Movement"))
+            {
                 clawAnimator.SetTrigger("Attack");
+            }
         }
 
         float moveAmountSqrMag = moveAmount.sqrMagnitude;
@@ -208,6 +234,8 @@ public class MonsterController : MonoBehaviour
             idleNoiseCheck(moveAmountSqrMag);
 
         Die();
+
+        stamFill.fillAmount = Stamina;
 	}
 
     void RecoverDamage()
@@ -290,6 +318,8 @@ public class MonsterController : MonoBehaviour
 
     void HandlePlayerSwipeAttacked()
     {
+        Stamina -= .3f;
+
         Collider[] hitColliders = Physics.OverlapSphere(weaponT.position, SphereRadius);
 
         Debug.DrawLine(weaponT.position, weaponT.position + Vector3.up * SphereRadius);

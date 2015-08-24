@@ -22,7 +22,7 @@ public class Soldier : MonoBehaviour
 
     public float PatrolSpeed = 2;
 
-    public Transform playerT;
+    Transform playerT;
 
     public Animator animator;
     AnimatorStateInfo stateInfo;
@@ -37,7 +37,7 @@ public class Soldier : MonoBehaviour
 
     NavMeshAgent agent;
 
-    private SoldierState state = SoldierState.Patrol;
+    public SoldierState state = SoldierState.Patrol;
 
     public float playerShootRange = 10;
 
@@ -58,13 +58,32 @@ public class Soldier : MonoBehaviour
 
     Vector3 woundedSoldierPosition;
 
+    Quaternion initialRotation;
+
 	void Start () 
     {
         GameBroadcaster.Instance.SoldierNeedsHelp += HandleSoldierNeedsHelp;
         GameBroadcaster.Instance.PlayerMadeNoise += HandlePlayerMadeNoise;
 
+        playerT = GameObject.FindGameObjectWithTag("Player").transform;
+
+        string soldierNumber = gameObject.name;
+        soldierNumber = soldierNumber[soldierNumber.Length - 2].ToString();
+
+        GameObject PointsParent = GameObject.Find("PatrolPoints (" + soldierNumber + ")");
+
+        Transform[] points = PointsParent.GetComponentsInChildren<Transform>();
+        patrolRoute = new Transform[points.Length - 1];
+
+        for (int i = 1; i < points.Length; ++i )
+        {
+            patrolRoute[i - 1] = points[i];
+        }
+
         agent = GetComponent<NavMeshAgent>();
         rayCheckTime = Time.time;
+
+        initialRotation = transform.rotation;
 	}
 	
 	// Update is called once per frame
@@ -80,7 +99,12 @@ public class Soldier : MonoBehaviour
             case SoldierState.Patrol:
                 if (Vector3.Distance(transform.position, patrolRoute[curWP].position) < 1.5f)
                 {
-                    curWP = (curWP + 1) % patrolRoute.Length;
+                    if(patrolRoute.Length > 1)
+                        curWP = (curWP + 1) % patrolRoute.Length;
+                    else
+                    {
+                        transform.rotation = initialRotation;
+                    }
                 }
 
                 agent.SetDestination(patrolRoute[curWP].position);
@@ -182,7 +206,7 @@ public class Soldier : MonoBehaviour
     {
         if (state != SoldierState.Dead)
         {
-            GameBroadcaster.Instance.OnSoldierNeedsHelp(gameObject, 100);
+            GameBroadcaster.Instance.OnSoldierNeedsHelp(gameObject, 15);
 
             SwitchState(SoldierState.Hurt);
             animator.SetTrigger("Hurt");
@@ -366,7 +390,7 @@ public class Soldier : MonoBehaviour
             if (state != SoldierState.Aggro)
             {
                 if (state == SoldierState.Alerted)
-                    noiseRange *= 1.5f;
+                    noiseRange *= 2f;
 
                 float distance = Vector3.Distance(player.transform.position, transform.position);
                 if (distance <= noiseRange)
