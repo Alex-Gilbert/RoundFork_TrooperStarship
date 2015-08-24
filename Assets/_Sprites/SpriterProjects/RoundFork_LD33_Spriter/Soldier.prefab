@@ -25,7 +25,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 450930}
   - 212: {fileID: 21220112}
-  - 114: {fileID: 11435258}
+  - 114: {fileID: 11407818}
   m_Layer: 0
   m_Name: head_happy copy
   m_TagString: Untagged
@@ -91,7 +91,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 471738}
   - 212: {fileID: 21257588}
-  - 114: {fileID: 11406182}
+  - 114: {fileID: 11481240}
   m_Layer: 0
   m_Name: leg_0 copy_000
   m_TagString: Untagged
@@ -156,7 +156,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 400082}
   - 212: {fileID: 21273180}
-  - 114: {fileID: 11422216}
+  - 114: {fileID: 11425406}
   m_Layer: 0
   m_Name: back thigh
   m_TagString: Untagged
@@ -1111,12 +1111,12 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11406182
+--- !u!114 &11407818
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 168198}
+  m_GameObject: {fileID: 128244}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
@@ -1124,10 +1124,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DisplayedSprite: 0
   Sprites:
-  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
-  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
-  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
---- !u!114 &11422216
+  - {fileID: 21300000, guid: 4bc2f6fd84a7fac4aaaf73c5c77fb2a7, type: 3}
+  - {fileID: 21300000, guid: 78564a657509d5d418b66b52bea2285d, type: 3}
+--- !u!114 &11425406
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -1143,21 +1142,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
   - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
   - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
---- !u!114 &11435258
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 128244}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DisplayedSprite: 0
-  Sprites:
-  - {fileID: 21300000, guid: 4bc2f6fd84a7fac4aaaf73c5c77fb2a7, type: 3}
-  - {fileID: 21300000, guid: 78564a657509d5d418b66b52bea2285d, type: 3}
 --- !u!114 &11461602
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1171,6 +1155,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sortingOrder: 0
   applySpriterZOrder: 0
+--- !u!114 &11481240
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 168198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d8dc87df01e4958ab48153b19f0ccd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayedSprite: 0
+  Sprites:
+  - {fileID: 21300000, guid: 1f49ba058a88f2545b14e12bca3f1ede, type: 3}
+  - {fileID: 21300000, guid: fe0caeb1a50ff76449411b63214abaca, type: 3}
+  - {fileID: 21300000, guid: 4855bcb5fb528ef448e05fc327a11433, type: 3}
 --- !u!212 &21220112
 SpriteRenderer:
   m_ObjectHideFlags: 1
